@@ -1,0 +1,18 @@
+body {
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+h1 {
+    width: 32px;
+
+}
+
+div {
+    float: right;
+    margin: 10px;
+}
+
+h1, h2, h3{
+    font-family: sans-serif;
+}
